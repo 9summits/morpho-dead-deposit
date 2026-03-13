@@ -1,6 +1,6 @@
 # Morpho Dead Deposit
 
-Perform a dead deposit (1 wei of collateral + 1 share supply) on a Morpho market to prevent share inflation attacks.
+Perform a dead deposit on a Morpho market to prevent share inflation attacks.
 
 ## Usage
 
